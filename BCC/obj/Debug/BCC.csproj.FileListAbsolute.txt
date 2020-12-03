@@ -1,0 +1,14 @@
+D:\Vie_etudiante\Ecole\B2\Projet transversale\C#\BCC\BCC\bin\Debug\BCC.exe.config
+D:\Vie_etudiante\Ecole\B2\Projet transversale\C#\BCC\BCC\bin\Debug\BCC.exe
+D:\Vie_etudiante\Ecole\B2\Projet transversale\C#\BCC\BCC\bin\Debug\BCC.pdb
+D:\Vie_etudiante\Ecole\B2\Projet transversale\C#\BCC\BCC\obj\Debug\BCC.csprojResolveAssemblyReference.cache
+D:\Vie_etudiante\Ecole\B2\Projet transversale\C#\BCC\BCC\obj\Debug\MainWindow.g.cs
+D:\Vie_etudiante\Ecole\B2\Projet transversale\C#\BCC\BCC\obj\Debug\App.g.cs
+D:\Vie_etudiante\Ecole\B2\Projet transversale\C#\BCC\BCC\obj\Debug\BCC_MarkupCompile.cache
+D:\Vie_etudiante\Ecole\B2\Projet transversale\C#\BCC\BCC\obj\Debug\BCC_MarkupCompile.lref
+D:\Vie_etudiante\Ecole\B2\Projet transversale\C#\BCC\BCC\obj\Debug\MainWindow.baml
+D:\Vie_etudiante\Ecole\B2\Projet transversale\C#\BCC\BCC\obj\Debug\BCC.g.resources
+D:\Vie_etudiante\Ecole\B2\Projet transversale\C#\BCC\BCC\obj\Debug\BCC.Properties.Resources.resources
+D:\Vie_etudiante\Ecole\B2\Projet transversale\C#\BCC\BCC\obj\Debug\BCC.csproj.GenerateResource.Cache
+D:\Vie_etudiante\Ecole\B2\Projet transversale\C#\BCC\BCC\obj\Debug\BCC.exe
+D:\Vie_etudiante\Ecole\B2\Projet transversale\C#\BCC\BCC\obj\Debug\BCC.pdb
